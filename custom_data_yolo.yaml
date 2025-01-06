@@ -1,0 +1,11 @@
+# Number of classes
+nc: 1
+
+# Path to train and validation image directories
+train: C:/Users/harshika.pathak/Desktop/WORK/object_detection/datasets/train
+val: C:/Users/harshika.pathak/Desktop/WORK/object_detection/datasets/test
+
+# Class names (labels)
+names: ['star']
+
+  

@@ -1,0 +1,14 @@
+datasets/
+temp.jpg
+temp.png
+output_frame/
+pt/
+test/
+wandb/
+custom_data.yaml
+faster_rcnn.ipynb
+MicrosoftTeams-video.mp4
+object_detection.ipynb
+output_video.mp4
+output.mp4
+
